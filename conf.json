@@ -1,10 +1,10 @@
 {
     "confs": [
-        "miner_config.json",
-        "notify_config.json",
-        "retain_config.json",
-        "skp.json",
-        "notify_activity_config.json"
+        "miner_config",
+        "notify_config",
+        "retain_config",
+        "skp",
+        "notify_activity_config"
     ],
     "ver": 1
 }
