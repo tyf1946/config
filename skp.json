@@ -1,7 +1,9 @@
 {
     "conds": [
         {
+            "cond_key": "ver",
             "op": "eq",
+            "cond_val": 1,
             "val": {
                 "release": true
             }
