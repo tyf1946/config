@@ -1,1 +1,1 @@
-{"conds":[{"cond_key":"ver","op":"eq","cond_type":"int","cond_val":1,"val":"{\"release\":true}"}],"type":"string","def":"","ver":1}
+{"type":"string","def":"{\"release\":true}","ver":1}
