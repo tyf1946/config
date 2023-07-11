@@ -1,10 +1,1 @@
-{
-    "confs": [
-        "miner_config",
-        "notify_config",
-        "retain_config",
-        "skp",
-        "notify_activity_config"
-    ],
-    "ver": 1
-}
+{"confs":["miner_config","notify_config","retain_config","skp","notify_activity_config"],"ver":1}
